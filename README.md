@@ -11,3 +11,13 @@ of the algorithm, F-GDGIF is applied to cost aggregation and disparity refinemen
 respectively. Experiments on the Middlebury evaluation benchmark demonstrate that F-GDGIF based stereo
 matching method can generate more accuracy disparity maps with low computational cost compared to other
 GIF based methods.
+
+@article{yuan2021efficient,
+  title={Efficient local stereo matching algorithm based on fast gradient domain guided image filtering},
+  author={Yuan, Weimin and Meng, Cai and Tong, Xiaoyan and Li, Zhaoxi},
+  journal={Signal Processing: Image Communication},
+  volume={95},
+  pages={116280},
+  year={2021},
+  publisher={Elsevier}
+}
