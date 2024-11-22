@@ -12,6 +12,8 @@ respectively. Experiments on the Middlebury evaluation benchmark demonstrate tha
 matching method can generate more accuracy disparity maps with low computational cost compared to other
 GIF based methods.
 
+Link: https://www.sciencedirect.com/science/article/pii/S0923596521001181
+
 @article{yuan2021efficient,
   title={Efficient local stereo matching algorithm based on fast gradient domain guided image filtering},
   author={Yuan, Weimin and Meng, Cai and Tong, Xiaoyan and Li, Zhaoxi},
