@@ -14,6 +14,8 @@ GIF based methods.
 
 Link: https://www.sciencedirect.com/science/article/pii/S0923596521001181
 
+Result: https://vision.middlebury.edu/stereo/eval3/
+
 @article{yuan2021efficient,
   title={Efficient local stereo matching algorithm based on fast gradient domain guided image filtering},
   author={Yuan, Weimin and Meng, Cai and Tong, Xiaoyan and Li, Zhaoxi},
